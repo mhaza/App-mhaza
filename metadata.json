@@ -1,0 +1,6 @@
+{
+  "name": "همدان",
+  "description": "تطبيق مساحة الأراضي وحساب مساحات المستطيل والمثلث والمضلع بنقاط GPS وحفظ وتصدير المشاريع",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
